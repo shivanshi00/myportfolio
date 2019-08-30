@@ -1,32 +1,32 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Shivanshi",
+    "title": "Full Stack Developer",
+    "intro": "Learning Enthusiast!",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "HTML",
+            "rating": "80"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "CSS",
+            "rating": "80"
         },
         {
-            "title": "Skill 3",
+            "title": "JavaScript",
+            "rating": "75"
+        },{
+            "title": "Java",
             "rating": "85"
         },{
-            "title": "Skill 4",
-            "rating": "80"
-        },{
-            "title": "Skill 5",
+            "title": "C++",
             "rating": "78"
         },{
-            "title": "Skill 6",
-            "rating": "90"
+            "title": "C",
+            "rating": "70"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "8528701052",
+        "email": "shivanshi171764.cse@chitkara.edu.in"
     }
 }
